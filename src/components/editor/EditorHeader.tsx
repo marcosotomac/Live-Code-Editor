@@ -71,7 +71,7 @@ export function EditorHeader({
       <div className="flex items-center justify-between px-6 py-3">
         <div className="flex items-center space-x-4">
           <h1 className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-            Live Code Editor
+            Live Code Editor by Marco Soto
           </h1>
           {errors.length === 0 ? (
             <Badge variant="secondary" className="text-emerald-600 bg-emerald-50 dark:bg-emerald-900/20 border-emerald-200 dark:border-emerald-800">
